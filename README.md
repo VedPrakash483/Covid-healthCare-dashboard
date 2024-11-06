@@ -103,33 +103,43 @@ node server.js
 
 The backend will be accessible at http://localhost:5000 by default.
 
-## Usage
 
-### Login:
+## 📋 Usage Guide
 
-Upon visiting the app, users will be prompted to log in. The login functionality uses JWT (JSON Web Tokens) for authentication.
+### 🔐 Login
+Upon visiting the app, users will be greeted with a login screen. Our secure authentication system utilizes JWT (JSON Web Tokens) to ensure the safety of your data.
 
-### View Hospital Resources:
+### 📊 View Hospital Resources
+Once logged in, users gain access to a comprehensive table showcasing vital hospital resources:
 
-After logging in, users can view a table of hospital resources, including beds, ICU beds, ventilators, and oxygen cylinders.
+- 🛏️ Hospital Beds
+- 🏥 ICU Beds  
+- 🫁 Ventilators
+- 🧪 Oxygen Cylinders
 
-### Update Resources:
+### 🔄 Update Resources
+Administrators have the ability to keep resource information up-to-date:
 
-Admins can update the hospital resources by filling out a form and submitting new values.
+1. Navigate to the update form
+2. Enter new values for each resource 
+3. Submit the form to refresh the data
 
-### View COVID-19 Cases:
+### 🦠 COVID-19 Case Tracker
+Stay informed with our real-time COVID-19 case tracker, providing total case numbers for your specific region.
 
-Users can see the total number of COVID-19 cases for a particular region.
+### 💉 Vaccination Status 
+Monitor vaccination progress in your area:
 
-### Vaccination Status:
+- View current vaccination rates
+- Update vaccination statuses as needed
 
-Users can view the vaccination progress by region and update vaccination statuses.
+### 🚪 Logout
+To end your session securely, simply click the "Logout" button in the navigation menu.
 
-### Logout:
-
-Click the "Logout" button in the navigation menu to end the session.
+🌟
 
 ## Screenshots
+
 Login Page
 ![Login Page](frontend/assets/image-1.png)
 
@@ -154,43 +164,84 @@ Flowchart Page
 ![Flowchart Page](frontend/assets/image-7.png)
 
 
-## Technologies Used
+# 🛠️ Technical Details
 
-Frontend:
+## 💻 Technologies Used
 
-* HTML
-* CSS
-* JavaScript
-* Fetch API
+### 🎨 Frontend
+- **HTML** - Structure and content
+- **CSS** - Styling and layout
+- **JavaScript** - Client-side functionality
+- **Fetch API** - HTTP requests
 
-Backend:
+### ⚙️ Backend
+- **Node.js** - Runtime environment
+- **Express.js** - Web framework
+- **MongoDB** - Database
+- **Mongoose** - ODM library
 
-* Node.js
-* Express.js
-* MongoDB
-* Mongoose
+### 🔧 Additional Tools
+- **JWT** - Authentication & security
+- **Postman** - API testing
+- **Git** - Version control
 
-Other Tools:
+## 🤝 Contributing
 
-* JWT (JSON Web Tokens) for authentication
-* Postman for API testing
-* Git for version control
+We welcome contributions! Here's how you can help:
 
-## Contributing
+1. Fork the repository
 
-We welcome contributions to this project! If you'd like to contribute, please follow these steps:
+2. Create your feature branch:
+   ```bash
+   git checkout -b feature-name
+   ```
 
-Fork the repository
-Create a new branch (git checkout -b feature-name)
-Commit your changes (git commit -am 'Add new feature')
-Push to the branch (git push origin feature-name)
-Create a new Pull Request
+3. Commit your changes
+   ```bash
+   git commit -am 'Add new feature'
+   ```
 
-## License
+4. Push to the branch 
+   ``bash
+   git push origin feature-name
+   ```
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+5. Create a new Pull Request
 
-## Acknowledgements
+## 📜 License
 
-Thanks to the COVID-19 Data API for providing the COVID-19 data used in this project.
-A big thank you to all the contributors and open-source libraries used in this project.
+<div align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License Badge"/>
+</div>
+
+This project is licensed under the [MIT License](LICENSE). For more details, please see the LICENSE file.
+
+---
+
+## ✨ Acknowledgements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks-Contributors-green.svg" alt="Contributors Badge"/>
+</div>
+
+### Data Provider
+- [COVID-19 Data API](https://covid19api.com/) for providing comprehensive and real-time pandemic data
+
+### Community Support
+- 👥 All amazing contributors who helped improve this project
+- 📚 Open-source libraries and their maintainers
+- 🏥 Healthcare workers who inspired this initiative
+
+<div align="center">
+  <sub>Built with ❤️ for the healthcare community</sub>
+</div>
+
+---
+
+<div align="center">
+  
+  **[⬆ Back to Top](#-license)**
+  
+  ![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+  
+</div>
