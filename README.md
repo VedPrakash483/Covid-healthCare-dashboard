@@ -151,6 +151,8 @@ Vaccination Status Page
 ![Vaccination Status Page](frontend/assets/image-6.png)
 
 Flowchart Page
+
+
 ![Flowchart Page](frontend/assets/image-7.png)
 
 
