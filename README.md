@@ -160,7 +160,6 @@ Vaccination Status Page
 
 Flowchart Page
 
-
 ![Flowchart Page](frontend/assets/image-7.png)
 
 
@@ -202,7 +201,7 @@ We welcome contributions! Here's how you can help:
    ```
 
 4. Push to the branch 
-   ``bash
+   ```bash
    git push origin feature-name
    ```
 
