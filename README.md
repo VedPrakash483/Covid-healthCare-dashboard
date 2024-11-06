@@ -133,25 +133,25 @@ Click the "Logout" button in the navigation menu to end the session.
 
 ## Screenshots
 Login Page
-![Login Page](assets/image-1.png)
+![Login Page](frontend/assets/image-1.png)
 
 Home Page
-![Home Page](assets/image-2.png)  <!-- Make sure to update this path if it was incorrect -->
+![Home Page](frontend/assets/image-2.png)  <!-- Make sure to update this path if it was incorrect -->
 
 Hospital Resources Page
-![Hospital Resource Page](assets/image-3.png)
+![Hospital Resource Page](frontend/assets/image-3.png)
 
 Update Hospital Resources
-![Update Hospital Resources](assets/image-4.png)
+![Update Hospital Resources](frontend/assets/image-4.png)
 
 COVID-19 Cases Page
-![COVID-19 Cases Page](assets/image-5.png)
+![COVID-19 Cases Page](frontend/assets/image-5.png)
 
 Vaccination Status Page
-![Vaccination Status Page](assets/image-6.png)
+![Vaccination Status Page](frontend/assets/image-6.png)
 
 Flowchart Page
-![Flowchart Page](assets/image-7.png)
+![Flowchart Page](frontend/assets/image-7.png)
 
 
 ## Technologies Used
