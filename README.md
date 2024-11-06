@@ -1,6 +1,6 @@
 # COVID-19 Tracker: Hospital Resources, Cases, and Vaccination Status
 
-![COVID-19 Tracker](frontend\assets\icon.png)
+![COVID-19 Tracker](frontend/assets/icon.png)
 
 ## 📊 Project Overview
 
