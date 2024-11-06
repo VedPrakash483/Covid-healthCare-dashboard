@@ -1,6 +1,6 @@
 # COVID-19 Tracker: Hospital Resources, Cases, and Vaccination Status
 
-![COVID-19 Tracker]([frontend\assets\icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcovid-19_4874391&psig=AOvVaw0FFNAB-W38kUhPbaCUb-co&ust=1731002513479000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjOnIClyIkDFQAAAAAdAAAAABAJ))
+![COVID-19 Tracker](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcovid-19_4874391&psig=AOvVaw0FFNAB-W38kUhPbaCUb-co&ust=1731002513479000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjOnIClyIkDFQAAAAAdAAAAABAJ)
 
 ## 📊 Project Overview
 
