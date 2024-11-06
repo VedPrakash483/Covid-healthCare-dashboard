@@ -151,6 +151,7 @@ Vaccination Status Page
 ![Vaccination Status Page](image-6.png)
 
 Flowchart Page
+
 ![Flowchart Page](image-7.png)
 
 ## Technologies Used
