@@ -1,7 +1,5 @@
 # COVID-19 Tracker: Hospital Resources, Cases, and Vaccination Status
 
-![COVID-19 Tracker](frontend/assets/icon.png)
-
 ## 📊 Project Overview
 
 This comprehensive COVID-19 Tracker and Information System provides a user-friendly interface for monitoring and managing hospital resources, COVID-19 case data, and vaccination status. It features both a **frontend** (HTML, CSS, JavaScript) and a **backend** (Node.js, Express, MongoDB), allowing users to view real-time hospital resources, update hospital information, and track vaccination progress across various regions.
