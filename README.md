@@ -136,7 +136,7 @@ Login Page
 ![Login Page](image-1.png)
 
 Home Page
-![Home Page](image-2.png)
+![Home Page](assets\image-1.png)
 
 Hospital Resources Page
 ![Hospital Resource Page](image-3.png)
