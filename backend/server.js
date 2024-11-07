@@ -15,7 +15,7 @@ const authRoutes = require('./routes/authRoutes');
 const covidRoutes = require('./routes/covidRoutes');
 
 // MongoDB connection (Direct connection without .env)
-const mongoURI = 'mongodb://localhost:27017/covid_db';
+const mongoURI = 'mongodb+srv://vedp7952:Ved32803@cluster0.x9dxn.mongodb.net/';
 mongoose.connect(mongoURI)
   .then(() => console.log('MongoDB connected'))
   .catch(err => console.log(err));
