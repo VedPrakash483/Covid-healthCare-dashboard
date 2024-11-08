@@ -82,7 +82,7 @@ const displayCovidCases = (data) => {
         caseWidget.innerHTML = `
             <h3>Region: ${caseData.region}</h3>
             <p>Active Cases: ${caseData.activeCases !== undefined ? caseData.activeCases : "N/A"}</p>
-            <p>Recovered Cases: ${caseData.recoveredCases}</p>
+            <p>Recovered Cases: ${caseData.recovered}</p>
             <p>Deaths: ${caseData.deaths !== undefined ? caseData.deaths : "N/A"}</p>
         `;
         casesContainer.appendChild(caseWidget);
